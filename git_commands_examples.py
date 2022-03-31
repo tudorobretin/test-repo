@@ -15,3 +15,7 @@
 # git status -> tells status of files (ready to commit, not staged)
 #
 # git commit -m "Changed README.md; uploaded test file ceva.py; uploaded a list of git commands" -m "some description" -> commit example
+#
+# git remote add origin git@github.com:tudorobretin/test-repo2.git ->this sets the push destination
+#
+# git remote -v -> shows available destinations I think
