@@ -12,4 +12,6 @@
 #
 # git add . -> starts tracking all files
 #
-# git status -> tells status of files (ready to commit, not staged
+# git status -> tells status of files (ready to commit, not staged)
+#
+# git commit -m "Changed README.md; uploaded test file ceva.py; uploaded a list of git commands" -m "some description" -> commit example
