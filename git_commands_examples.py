@@ -18,4 +18,12 @@
 #
 # git remote add origin git@github.com:tudorobretin/test-repo2.git ->this sets the push destination
 #
+# git remote set-url <remote_name> <ssh_remote_url> -> this changes the ssh url
+#
 # git remote -v -> shows available destinations I think
+#
+# git checkout -b nameofnewbranch -> this creates a new branch
+#
+# git branch -> shows branches and current branch
+#
+# git push origin nameofnewbranch -> this pushes to github under the new branch
